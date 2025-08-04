@@ -1,5 +1,5 @@
 ### Hi, I'm Juanes Cendales 👋
-I'am a passionate student currently learning about serverless development and algorithms.🌱
+I'am a passionate programmer always learning.🌱
 
 <!--
 **juanescendales/juanescendales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
